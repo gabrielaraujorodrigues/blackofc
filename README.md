@@ -25,7 +25,7 @@ Será necessário digitar y toda vez que pedir a caixa [y/n]
 
 **2° Comando**
 ```
-termux-setup-storage
+termux-setup-storagee
 ```
 **3° Comando**
 ```
